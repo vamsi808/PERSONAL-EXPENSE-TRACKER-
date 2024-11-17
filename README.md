@@ -53,17 +53,6 @@ The project includes a `dockerfile` for containerized deployment.
 
 ---
 
-## Demo
-
-Watch the [YouTube Demo](https://youtu.be/61TvtkJZBZc).
-
-### Screenshots
-
-![App Screenshot 1](https://github.com/user-attachments/assets/4991cd08-8102-4d3e-b0df-058d9b50aee5)
-![App Screenshot 2](https://github.com/user-attachments/assets/837c707c-13a5-4463-9c42-1ce24e86487d)
-
----
-
 ## Contributing
 
 Contributions are welcome!
@@ -71,12 +60,6 @@ Contributions are welcome!
 1. Fork the repository.
 2. Create a new branch for your feature/bug fix.
 3. Submit a pull request with detailed changes.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
 
